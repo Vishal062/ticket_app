@@ -19,7 +19,7 @@ A full-stack web application for booking movie tickets.
 
 ## Installation
 
-1. Clone the repository:(https://github.com/swati-kaithwas/book_ticket.git)
+1. Clone the repository:(https://github.com/Vishal062/ticket_app.git)
 
 2. Install dependencies for the front-end:(>cd client, npm i)
 
@@ -39,7 +39,8 @@ A full-stack web application for booking movie tickets.
 - Start the front-end server:npm start
 - Start the back-end server:npm run dev
 
+## Deployed Link
 
-
+[MovieBookingTicketApp](https://book-ticket-aoj5.vercel.app/)
 
 
